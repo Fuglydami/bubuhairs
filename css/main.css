@@ -2996,3 +2996,6 @@ footer h4.h05::after {
     display: none;
   }
 }
+.span-company-name{
+  color: #f9a828;
+}
